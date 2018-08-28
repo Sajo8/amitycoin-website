@@ -1,5 +1,5 @@
 title = "AmityCoin"
-baseURL = "amitycoin.netlify.com/"
+baseURL = "amity.netlify.com/"
 languageCode = "en-us"
 theme = "airspace-hugo"
 
