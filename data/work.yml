@@ -1,0 +1,8 @@
+enable: true
+
+portfolio:
+  - url: "../blog/vinay-sanghi"
+    image: "/img/portfolio/vinay.jpg"
+    name: Vinay Sanghi
+    description: >
+      Doctor

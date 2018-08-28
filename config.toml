@@ -1,0 +1,41 @@
+title = "AmityCoin"
+baseURL = "amitycoin.netlify.com/"
+languageCode = "en-us"
+theme = "airspace-hugo"
+
+# The site's parameters
+[params]
+
+  # If you want to remove the copyright text you need a Themefisher license.
+  # This license is offered with a 50% discount for all Hugo users.
+  # For information see https://github.com/gohugoio/hugoThemes/issues/260
+
+  dateFormat = "6 January 2006"
+
+  home = "Home"
+
+  [params.slider]
+    enable = true
+    title = "<img src='../img/logo1.png'> <br> The <br> 'Friendly Relations' <br> Coin"
+    subtitle = "AmityCoin brings you a crypto currency you can trust"
+
+  [params.wrapper]
+    enable = true
+    title = "About Us"
+    italic = "The word Amity means 'Friendly Relations' and that couldn't describe us any better"
+    paragraph = "With this unique, prospective coin we hope to achieve that. AmityCoin brings you a crypto currency you can feel safe using. With its privacy, there is no way anyone can trace a transaction back to you. With it's adaptability, we hope to bring AmityCoin on everyday devices. This means it can easily be adapted to everyday life - for example, paying for your weekly shop or even topping your phone up. Whilst being ASIC resistant, meaning you can't take over the network with a machine built to mine, every coin is equally fair to mine even when using your CPU power, however little that may be. AmityCoin hopes to bring a coin that will always remain user friendly and welcoming others to join."
+
+  [params.blog]
+    enable = true
+    title = "Get The Latest On What We're doing"
+    subtitle = "Catch up with us, anytime and anywhere"
+
+  [params.feature]
+    enable = true
+    title = "What we've Done"
+    content = "Got listed on ForkMaps <br> <br> Use LWMA-2 as our difficulty algorithm <br> <br> Use CryptoNight V7 as our hashing algorithm <br> <br> Made a paper wallet generator <br> <br> Made a Linux GUI Wallet"
+
+  [params.call]
+    enable = false
+    title = "We design delightful digital experiences."
+    paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."

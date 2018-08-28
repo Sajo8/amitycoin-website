@@ -1,0 +1,30 @@
+enable: true
+title: Some facts about us
+
+numbers:
+  - counter: 3
+    text: developers
+  - counter: 1
+    text: week of existence!
+  - counter: 90
+    text: second block times
+  - counter: 1
+    text: super cool website
+
+people:
+  - text: >
+      Founder
+    image: img/amity-jack.png
+    name: Amity Jack
+  - text: >
+      Service Developer
+    image: img/saj2.png
+    name: Sajo8
+  - text: >
+      Service Developer
+    image: img/Xandar.png
+    name: Xandar
+  - text: >
+      Amity Patron
+    image: img/madmax.png
+    name: madmax

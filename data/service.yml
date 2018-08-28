@@ -1,0 +1,11 @@
+enable: true
+title: What We're Currently Doing
+content:
+
+  - name: MacOS GUI Wallet
+  
+  - name: Windows GUI Wallet
+
+  - name: Web Wallet
+ 
+  - name: Discord TipBot
