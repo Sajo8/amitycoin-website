@@ -1,5 +1,5 @@
 title = "AmityCoin"
-baseURL = "amity.netlify.com/"
+baseURL = "https://amity.netlify.com/"
 languageCode = "en-us"
 theme = "airspace-hugo"
 
@@ -16,7 +16,7 @@ theme = "airspace-hugo"
 
   [params.slider]
     enable = true
-    title = "<img src='../img/logo1.png'> <br> The <br> 'Friendly Relations' <br> Coin"
+    title = "<img src='img/logo1.png'> <br> The <br> 'Friendly Relations' <br> Coin"
     subtitle = "AmityCoin brings you a crypto currency you can trust"
 
   [params.wrapper]
